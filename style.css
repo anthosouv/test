@@ -7,10 +7,28 @@ nav { align-content= center;
     
 }
 
-.divCarousel{
-    max-height: 80%;
+.titre{
+    color: blue;
+    padding-left: 2%;
+    
 }
 
+.navbar-brand{
+    height: 100%;
+    width: 3%;
+}
+
+.img-2Rives {
+    height: 2rem;
+    width: 2rem;
+}
+
+
+
+/*.divCarousel{
+    max-height: 80%;
+}
+*/
 /*.carousel-item{
     min-width:  20%;
     max-width: 100%;
@@ -45,6 +63,7 @@ nav { align-content= center;
 .paragraphe1{
     padding-top: 2%;
     padding-right: 2%;
+    padding-left:0%;
     text-align: justify;
 }
 
@@ -52,7 +71,7 @@ nav { align-content= center;
 .img-presentation2 {
     width: 100%;
     height: 100%;
-    padding-left: 8%;
+    padding-left: 4%;
     padding-right: 4%;
     padding-top: 3%;
     margin-top: 2%;
@@ -62,5 +81,33 @@ nav { align-content= center;
 .paragraphe2{
     padding-top: 2%;
     padding-left: 2%;
+    padding-right: 0%;
+    padding-bottom: 2%;
     text-align: justify;
 }
+
+
+.card-deck{
+    padding-top: 2%;
+    padding-left: 2%;
+    padding-right: 2%;
+}
+
+
+
+.reseaux-sociaux{
+    color: white;
+    font-size: 20;
+}
+
+
+.img-twitter{
+    height: 3rem;
+    width: 3rem;
+}
+
+.footer{
+    background-color: #8B4D17;
+    height: #;
+}
+
